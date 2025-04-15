@@ -13,7 +13,14 @@ This project is an ETL (Extract, Transform, Load) pipeline that fetches drug eve
 
 Project Structure
 
-/FDA-Drug-ETL-Pipeline │ ├── /extract.py # Script to fetch data from the FDA API ├── /transform.py # Script to clean and transform the extracted data ├── /load.py # Script to load data into MySQL ├── /main.py # Main script to run the entire ETL pipeline ├── /config.env # Environment variables for database connection and ETL settings ├── /requirements.txt # List of dependencies └── /README.md # Project documentation
+/FDA-Drug-ETL-Pipeline │ 
+├── /extract.py # Script to fetch data from the FDA API 
+├── /transform.py # Script to clean and transform the extracted data 
+├── /load.py # Script to load data into MySQL 
+├── /main.py # Main script to run the entire ETL pipeline 
+├── /config.env # Environment variables for database connection and ETL settings 
+├── /requirements.txt # List of dependencies 
+── /README.md # Project documentation
 
 
 
